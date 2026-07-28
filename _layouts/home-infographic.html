@@ -7,16 +7,14 @@ layout: page
 
     {% include index/description.html %}
 
-    {% include index/carousel.html title="Sample Items" height=450 %}
+    {% include feature/pdf.html objectid="coll001" width="50" caption="Introduction from Dr. Brandon Strubberg" %}
   
   </div>
   <div class="col-md-4">
 
-    {% include index/time.html %}
-
     {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" max=8 %}
 
-    {% include index/featured-terms.html field="creator" title="Creators" btn-color="success" max=8 %}
+    {% include index/featured-terms.html field="creator" title="Creators" btn-color="success" max=12 %}
 
     {% include index/objects.html %}
 

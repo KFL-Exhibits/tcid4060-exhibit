@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
+{% include feature/pdf.html objectid="coll001" width="100" caption="Introduction from Dr. Brandon Strubberg who designed and taught the class this exhibit is based on." %}
 
 ## About CollectionBuilder-Sheets
 

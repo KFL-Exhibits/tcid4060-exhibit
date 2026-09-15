@@ -8,4 +8,6 @@ permalink: /add.html
 
 The objects in this collection ask us to consider how we can improve the world around us to make it more accessible and more friendly to the people in it. If these objects have inspired you, or if you just have something to say, you can add an augmentation to the exhibit. You can use the cards nearby or the QR Code below to suggest something that could be made more accessible or a solution to another need. 
 
+{% include feature/button.html text="See Other Audience Contributions" link="https://kfl-exhibits.github.io/tcid4060-exhibit/browse.html#viewer" color="outline-dark" %}
+
 {% include feature/image.html objectid="https://kfl-exhibits.github.io/exhibits-image-host/tcid-Augment-QR.png" width="50" alt="QR code" %}
